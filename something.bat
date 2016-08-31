@@ -1,3 +1,3 @@
 @echo off
-echo bad!
-exit /B 1
+echo good again
+exit /B 0
