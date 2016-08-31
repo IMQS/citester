@@ -1,0 +1,3 @@
+#!/bin/sh
+echo I know I am going to fail
+exit 1
